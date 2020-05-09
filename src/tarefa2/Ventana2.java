@@ -11,7 +11,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Hallo
+ * @author jalvarezbarciela
  */
 public class Ventana2 extends javax.swing.JFrame {
 

@@ -7,7 +7,7 @@ package tarefa2;
 
 /**
  *
- * @author ivansteuerberg
+ * @author jalvarezbarciela
  */
 public class Ventana extends javax.swing.JFrame {
 
